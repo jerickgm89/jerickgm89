@@ -22,4 +22,4 @@ Uso Fedora 🥇 como sistema principal, pero también uso Windows 🪟 y macOS �
 
 ## Contacto
 -  [LinkedIn](https://www.linkedin.com/in/jerickdev)
--  [WhatsApp](https://wa.me/51980240567)
+-  [WhatsApp](https://wa.link/g35m11)
