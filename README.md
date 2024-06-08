@@ -7,6 +7,7 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 
 ## Tecnologias que programo 🧑‍💻
 
+<p>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -20,21 +21,29 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
 
 ## Competencias 🏆
 
-1. Actitud positiva
-2. Adaptabilidad
-3. Análisis de problemas
-4. Aprendizaje agil
-5. Autodidacta
-6. Capacidad Critica
-7. Trabajo en equipo
-8. Comunicación asertiva
-9. Orientación al cliente
-10. Resiliencia
+1. 😄 Actitud positiva
+2. 👊 Adaptabilidad
+3. 🔍 Análisis de problemas
+4. ⏩ Aprendizaje agil
+5. 📖 Autodidacta
+6. 🤔 Capacidad Critica
+7. :people_holding_hands: Trabajo en equipo
+8. :speech_balloon: Comunicación asertiva
+9. 🤝 Orientación al cliente
+10. ☔ Resiliencia
 
 ## Formación Académica 🎓
+
+### [![Universidad Continental](https://img.shields.io/badge/-Universidad%20Continental-FF0000?style=flat-square&logoColor=white)](https://www.ucontinental.edu.pe)
+- 10mo Ciclo | Bachiller en Ingeniería de Sistemas e Informática | 2024
+
+### [![Henry 🚀](https://img.shields.io/badge/Henry-🚀-yellow)](https://github.com/henry)
+- Full Stack Web Developer | 2024
+
 ### [![Platzi - Escuela de Desarrollo Web](https://img.shields.io/badge/Platzi-Escuela%20de%20Desarrollo%20Web-green)](https://www.platzi.com)
 - Curso basico de JavaScript
 - Curso de Gestion Efectiva del Tiempo
@@ -54,4 +63,4 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 
 ## Contacto 📱
 
--  [LinkedIn](https://www.linkedin.com/in/jerickdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jerickdev)](https://www.linkedin.com/in/jerickdev)
