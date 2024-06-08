@@ -1,25 +1,57 @@
-# Hola, mi nombre es J. Erick Garcia 👋
+# Hola, mi nombre es J. Erick Garcia 🇵🇪 👋
 
-Soy estudiante de la carrera profesional de Ingeniería de Sistemas en la Universidad Continental, Perú 🇵🇪. Actualmente me encuentro en el 9no ciclo de la carrera. Mi sueño es ser un desarrollador FullStack altamente competente y compartir mis conocimientos con la comunidad. 
-Uso Fedora 🥇 como sistema principal, pero también uso Windows 🪟 y macOS 🍎.
+Full Stack Web Developer con una sólida formación técnica en soporte informático. Durante mi carrera técnica, he brindado asistencia y asesoramiento técnico, así como también me he dedicado al ensamblaje y mantenimiento de equipos informáticos. Estas responsabilidades han contribuido significativamente a mejorar la seguridad y el rendimiento de los sistemas.
+Actualmente, estoy complementando mi experiencia con estudios en ingeniería de sistemas e informática en la Universidad Continental. Esta formación me permite ampliar mis conocimientos y habilidades, preparándome para aplicar mis conocimientos y experiencia en proyectos innovadores y desafiantes que generen valor y
+beneficio social.
+Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo en equipo, comunicación asertiva y capacidad autodidacta. Estoy enfocado en formar parte de un equipo dinámico, colaborativo donde pueda aportar mi visión y perspectiva para alcanzar los objetivos del proyecto de manera efectiva y eficiente.
 
-## Tecnologias 🧑‍💻
-1. HTML5 y CSS3
-2. JavaScript, TypeScript, NodeJS, SQL, MySql, Potsgres
-3. React, Redux
-4. Estructuras de Datos y Algoritmos
-5. Bootstrap, TailwindCSS, Materialize, Astro
-6. Git, GitHub
-7. Entornos de desarrollo: Visual Studio Code, Suit JetBrains en Windows, macOS y GNU/Linux
+## Tecnologias que programo 🧑‍💻
+
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
 
 ## Competencias 🏆
-1. Excel Avanzado
-2. Liderazgo | Resilencia | Autodidacta
-3. Comunicación Asertiva
-4. Trabajo en equipo
-5. Resiliencia
-6. Autodidacta
+
+1. Actitud positiva
+2. Adaptabilidad
+3. Análisis de problemas
+4. Aprendizaje agil
+5. Autodidacta
+6. Capacidad Critica
+7. Trabajo en equipo
+8. Comunicación asertiva
+9. Orientación al cliente
+10. Resiliencia
+
+## Formación Académica 🎓
+### [![Platzi - Escuela de Desarrollo Web](https://img.shields.io/badge/Platzi-Escuela%20de%20Desarrollo%20Web-green)](https://www.platzi.com)
+- Curso basico de JavaScript
+- Curso de Gestion Efectiva del Tiempo
+- Curso de Ingles basico A1
+
+### [![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com)
+- Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
+- React: De cero a experto ( Hooks y MERN )
+
+### [![Microsoft](https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=blue)](https://www.microsoft.com)
+- GitHub Universe 2023 Cloud Skills Challenge
+- GitHub Foundations
+
+### [![FrontEnd Masters](https://img.shields.io/badge/-FrontEnd%20Masters-red?style=flat-square&logoColor=white)](https://www.frontendmasters.com)
+- Sass Fundamentals
+
 
 ## Contacto 📱
+
 -  [LinkedIn](https://www.linkedin.com/in/jerickdev)
--  [WhatsApp](https://wa.link/g35m11)
