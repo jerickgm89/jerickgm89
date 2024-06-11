@@ -29,6 +29,7 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 
 
 ### Herramientas
+<p>
 <!-- Visual Studio Code -->
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <!-- GitHub -->
@@ -41,8 +42,10 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
 <!-- Yarn -->
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+</p>
 
 ### Tecnologías
+<p>
 <!-- Javascript -->
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <!-- React -->
