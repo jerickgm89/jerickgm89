@@ -6,21 +6,83 @@ beneficio social.
 Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo en equipo, comunicación asertiva y capacidad autodidacta. Estoy enfocado en formar parte de un equipo dinámico, colaborativo donde pueda aportar mi visión y perspectiva para alcanzar los objetivos del proyecto de manera efectiva y eficiente.
 
 ## Tecnologias que programo 🧑‍💻
+
+### Sistemas Operativos
 <p>
+<!-- Linux -->
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<!-- Ubuntu -->
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<!-- Fedora -->
 <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<!-- Manjaro -->
+<img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" />
 </p>
+<p>
+<!-- Windows -->
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</p>
+<p>
+<!-- MacOs -->
+<img alt="MacOs" src="https://img.shields.io/badge/-MacOs-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+
+### Herramientas
+<!-- Visual Studio Code -->
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<!-- GitHub -->
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<!-- Git -->
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<!-- Npm -->
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<!-- Bun -->
+<img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
+<!-- Yarn -->
+<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+
+### Tecnologías
+<!-- Javascript -->
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<!-- React -->
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<!-- Redux -->
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<!-- TypeScript -->
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<!-- CSS3 -->
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<!-- Sass -->
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<!-- MaterialUI -->
+<img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+<!-- Bootstrap -->
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<!-- Tailwind -->
+<img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<!-- Styled Components -->
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+<!-- Html5 -->
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<!-- Astro -->
+<img alt="Astro" src="https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro&logoColor=white" />
+<!-- NodeJS -->
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<!-- Express -->
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<!-- Sequelize -->
+<img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-3998d0?style=flat-square&logo=sequelize&logoColor=white" />
+<!-- Postgresql -->
+<img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<!-- SQL Server -->
+<img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+
+### Servicios en la nube
+<!-- Amazon AWS -->
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 ## Proyectos 🚀
 
@@ -52,6 +114,8 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
   </tbody>
 </table>
 
+<strong>EcommerceTech:</strong> Esta es una aplicación web de comercio electrónico robusta y completa que desarrollé utilizando tecnologías modernas como React y Redux. Utilicé RTK Query para la gestión eficiente del estado del servidor y MaterialUI para un diseño atractivo y receptivo. Implementé rutas protegidas con React Router para garantizar la seguridad y la autenticación y autorización de los usuarios con Auth0. La aplicación cuenta con funcionalidades de paginación, filtros y ordenamiento de productos para facilitar la navegación. Además, incluye un carrito de compras integrado, un proceso de checkout y la capacidad de realizar pagos con tarjeta de crédito a través de Mercado Pago. Para el backend, utilicé NodeJS, Express y Sequelize para la gestión de la base de datos PostgreSQL. Implementé la autenticación y autorización de los usuarios con JWT. La aplicación también cuenta con un panel de administración para gestionar productos, categorías y usuarios. Utilicé Amazon Web Service para implementar la aplicación AWS Amplify para el frontend y EC2 para el backend y Cloudinary para almacenar las imágenes de los productos.
+
 
 
 ## Competencias 🏆
@@ -69,26 +133,36 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 
 ## Formación Académica 🎓
 
-### [![Universidad Continental](https://img.shields.io/badge/-Universidad%20Continental-FF0000?style=flat-square&logoColor=white)](https://www.ucontinental.edu.pe)
-- 10mo Ciclo | Bachiller en Ingeniería de Sistemas e Informática | 2024
+## Educación y Certificaciones
 
-### [![Henry 🚀](https://img.shields.io/badge/Henry-🚀-yellow)](https://github.com/henry)
-- Full Stack Web Developer | 2024
+###
+![Universidad Continental](https://img.shields.io/badge/-Universidad%20Continental-FF0000?style=flat-square&logoColor=white)
+- **Estudio:** Bachiller en Ingeniería de Sistemas e Informática
+- **Graduación:** 2024
 
-### [![Platzi - Escuela de Desarrollo Web](https://img.shields.io/badge/Platzi-Escuela%20de%20Desarrollo%20Web-green)](https://www.platzi.com)
-- Curso basico de JavaScript
-- Curso de Gestion Efectiva del Tiempo
-- Curso de Ingles basico A1
+###
+![Henry](https://img.shields.io/badge/Henry-🚀-yellow)
+- **Posición:** Full Stack Web Developer
+- **Año:** 2024
 
-### [![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com)
+###
+![Platzi](https://img.shields.io/badge/Platzi-Escuela%20de%20Desarrollo%20Web-green)
+- Curso básico de JavaScript
+- Curso de Gestión Efectiva del Tiempo
+- Curso de Inglés básico A1
+
+###
+![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
 - Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
 - React: De cero a experto ( Hooks y MERN )
 
-### [![Microsoft](https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=blue)](https://www.microsoft.com)
+###
+![Microsoft](https://img.shields.io/badge/-Microsoft-666666?style=flat-square&logo=microsoft&logoColor=blue)
 - GitHub Universe 2023 Cloud Skills Challenge
 - GitHub Foundations
 
-### [![FrontEnd Masters](https://img.shields.io/badge/-FrontEnd%20Masters-red?style=flat-square&logoColor=white)](https://www.frontendmasters.com)
+###
+![FrontEnd Masters](https://img.shields.io/badge/-FrontEnd%20Masters-red?style=flat-square&logoColor=white)
 - Sass Fundamentals
 
 
