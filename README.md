@@ -6,7 +6,6 @@ beneficio social.
 Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo en equipo, comunicación asertiva y capacidad autodidacta. Estoy enfocado en formar parte de un equipo dinámico, colaborativo donde pueda aportar mi visión y perspectiva para alcanzar los objetivos del proyecto de manera efectiva y eficiente.
 
 ## Tecnologias que programo 🧑‍💻
-
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
@@ -22,6 +21,38 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
+
+## Proyectos 🚀
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jerickgm89/ecommerce_frontend"><b>EcommerceTech (FrontEnd)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jerickgm89/ecommerce_frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jerickgm89/ecommerce_frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jerickgm89/ecommerce_frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jerickgm89/ecommerce_frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jerickgm89/ecommerce_backend"><b>EcommerceTech (BackEnd)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/jerickgm89/ecommerce_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/jerickgm89/ecommerce_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/jerickgm89/ecommerce_backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/jerickgm89/ecommerce_backend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## Competencias 🏆
 
@@ -62,5 +93,14 @@ Mis habilidades incluyen pensamiento crítico, resolución de problemas, trabajo
 
 
 ## Contacto 📱
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jerickdev)](https://www.linkedin.com/in/jerickdev)
+<p>
+    <a href="https://www.linkedin.com/in/jerickdev">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jerickgm89@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/51936114196">
+        <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </a>
+</p>
